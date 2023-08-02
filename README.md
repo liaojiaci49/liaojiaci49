@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @liaojiaci49
+- 👀 I’m interested in Data science scholar proficient in R.
+- 🌱 I’m currently learning Intrigued by the potential of data to inform decisions and shape trends.
